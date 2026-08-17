@@ -2,8 +2,8 @@
 -- Made By xit??
 -- Professional White & Black Theme
 
-if getgenv().UrielPainel and type(getgenv().UrielPainel.destroy)=="function" then
-    pcall(getgenv().UrielPainel.destroy)
+if getgenv().NexXit and type(getgenv().NexXit.destroy)=="function" then
+    pcall(getgenv().NexXit.destroy)
     task.wait(0.15)
 end
 
